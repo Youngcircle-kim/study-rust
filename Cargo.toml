@@ -9,3 +9,7 @@ rand = "0.8.5"
 [[bin]]
 name="helloWorld"
 path="src/helloWorld.rs"
+
+[[bin]]
+name="guessGame"
+path="src/guessGame.rs"
